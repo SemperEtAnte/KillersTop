@@ -1,0 +1,5 @@
+MySQL:
+   url: "mysql://localhost/db"
+   user: "root"
+   password: "pass"
+period: 100
