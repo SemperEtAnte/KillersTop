@@ -1,0 +1,8 @@
+name: KillersTop
+main: ru.SemperAnte.KillersTop.KillersTop
+version: 1.0
+softdepend: [SemperAnteAPI]
+commands:
+   KillersTop:
+    description: Main plugin command
+    aliases: [killtop, killertop, kt, killerst, ktop]
